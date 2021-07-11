@@ -46,9 +46,7 @@ A aplicação foi desenvolvida com o intuito de sanar um problema de controle de
 ### ✅ Demonstração
 
 <p>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/home.png" alt="PlantManager" width="250"/>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/new-plant.png" alt="PlantManager" width="250"/>
-  <img src="https://github.com/gabriel-nt/Plant-Manager/blob/main/src/assets/git/my-plants.png" alt="PlantManager" width="250"/>
+  <img src="https://github.com/gabriel-nt/app-agro-concordia/blob/master/mobile/src/assets/screens.png" alt="App Agro Concórdia"/>
 </p>
 
 ### ⚙ Pré-requisitos
@@ -67,9 +65,6 @@ $ git clone https://github.com/gabriel-nt/agro-concordia-mobile
 
 # Instale as dependências
 $ yarn
-
-# Rode o adb reverse
-$ tcp.cmd
 
 # Execute a aplicação
 $ yarn android
@@ -102,8 +97,14 @@ Esse projeto foi utilizou das seguintes lib:
 - axios
 - @react-native-community/picker
 - @react-native-community/async-storage
-- Prettier
+
+### 📘 Padrão de Código
+
+Para padronizar a escrita do código, utilizamos as seguinte ferramentas:
+
 - Eslint
+- Prettier
+- EditorConfig
 
 ### 📝 Licença
 
