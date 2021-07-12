@@ -38,7 +38,7 @@ Confira os readmes para outras informações:
 - [Frontend](https://github.com/gabriel-nt/app-agro-concordia/tree/master/mobile)
 
 ### 💻 Demonstração
-<img src="https://drive.google.com/file/d/1ss91LKnuqzUVeWGzDUEef0uIyhv45VwV/view?usp=sharing" alt="Demonstração com video"/>
+[Assista a uma demonstração do app, clicando aqui](https://drive.google.com/file/d/1JTZyXgHESPiULl0Bdkj9770lP-Po_VuC/view?usp=sharing)
 
 ### 🚀 Tecnologias
 
