@@ -37,6 +37,9 @@ Confira os readmes para outras informações:
 - [Backend](https://github.com/gabriel-nt/app-agro-concordia/tree/master/backend)
 - [Frontend](https://github.com/gabriel-nt/app-agro-concordia/tree/master/mobile)
 
+### 💻 Demonstração
+<img src="https://drive.google.com/file/d/1ss91LKnuqzUVeWGzDUEef0uIyhv45VwV/view?usp=sharing" alt="Demonstração com video"/>
+
 ### 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
