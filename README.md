@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-nt/app-agro-concordia/blob/master/mobile/src/assets/logo.png" alt="Agro Concórdia" />
+  <img src="https://github.com/gabriel-nt/app-agro-concordia/blob/master/mobile/src/assets/logo.png" alt="Agro Concórdia" height="120"/>
 </p>
 
 <h1 align="center">
