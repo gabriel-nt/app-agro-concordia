@@ -34,11 +34,11 @@ onde não havia um controle do estoque do produtos vendidos.
 ### 📘 Observações
 Neste repositório consta apenas a estrutura de pastas utilizadas no backend e frontend do aplicativo. 
 Confira os códigos nos seus respectivos repositórios:
-- <a href="https://github.com/gabriel-nt/agro-concordia-backend" target="_blank">Backend</a>
-- <a href="https://github.com/gabriel-nt/agro-concordia-mobile" target="_blank">Mobile</a>
+- <a href="https://github.com/gabriel-nt/agro-concordia-backend">Backend</a>
+- <a href="https://github.com/gabriel-nt/agro-concordia-mobile">Mobile</a>
 
 ### 💻 Demonstração
-<a href="https://drive.google.com/file/d/1JTZyXgHESPiULl0Bdkj9770lP-Po_VuC/view?usp=sharing" target="_blank">Assista a uma demonstração do app, clicando aqui</a>
+<a href="https://drive.google.com/file/d/1JTZyXgHESPiULl0Bdkj9770lP-Po_VuC/view?usp=sharing">Assista a uma demonstração do app, clicando aqui</a>
 
 ### 🚀 Tecnologias
 
